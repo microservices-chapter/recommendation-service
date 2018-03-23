@@ -1,4 +1,4 @@
-group 'inventory-service'
+group 'recommendation-service'
 version '1.0-SNAPSHOT'
 
 buildscript {
